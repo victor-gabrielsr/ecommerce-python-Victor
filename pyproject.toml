@@ -1,0 +1,3 @@
+# Configuração dos testes (Aula 7). Não precisa mexer aqui.
+[tool.pytest.ini_options]
+pythonpath = ["src"]

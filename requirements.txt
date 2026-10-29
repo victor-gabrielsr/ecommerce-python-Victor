@@ -1,0 +1,2 @@
+# Bibliotecas que vamos usar no projeto (só na Aula 7)
+pytest

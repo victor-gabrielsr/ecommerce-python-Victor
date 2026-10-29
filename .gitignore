@@ -1,0 +1,7 @@
+# Arquivos que o Git deve ignorar (não precisa mexer aqui)
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.pytest_cache/
